@@ -1,0 +1,35 @@
+commit 9094c331cbe820b6cb24e95a9e771aea6667854d
+Author: jaredgary <garygonzalezzepeda@gmail.com>
+Date:   Mon Dec 28 11:37:11 2015 -0600
+
+    Portafolio
+
+commit c837bd6b75df5e9775661129643c125cbca8f5fa
+Author: jaredgary <garygonzalezzepeda@gmail.com>
+Date:   Mon Dec 28 11:36:14 2015 -0600
+
+    Descripción de perfil
+
+commit 9deb1b56773ca5b86fdcc2beb916a801846291dc
+Author: jaredgary <garygonzalezzepeda@gmail.com>
+Date:   Mon Dec 28 11:34:52 2015 -0600
+
+    Redes sociales
+
+commit 65dbbe5f62af66d0bdb536697c41f47359aa978c
+Author: jaredgary <garygonzalezzepeda@gmail.com>
+Date:   Mon Dec 28 11:29:14 2015 -0600
+
+    Perfil web escrito
+
+commit f724d7d6c0abc701e2af858397ed4904ef53ce5c
+Author: jaredgary <garygonzalezzepeda@gmail.com>
+Date:   Mon Dec 28 11:26:15 2015 -0600
+
+    Cambio de foto de perfil y nombre
+
+commit 15c8942f97bf47298e7e80c605665638b19e22dd
+Author: jaredgary <garygonzalezzepeda@gmail.com>
+Date:   Mon Dec 28 11:18:01 2015 -0600
+
+    Archivos bases de mi repositorio
